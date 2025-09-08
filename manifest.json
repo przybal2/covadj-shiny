@@ -2516,8 +2516,11 @@
     }
   },
   "files": {
+    "app.R": {
+      "checksum": "fdb19ddbd22ba54189dd07c38b995460"
+    },
     "README.md": {
-      "checksum": "1c588356d0dc9c97cd4c0c3b43dc4706"
+      "checksum": "c0f0b8a135ed7fdc71798103c8f83b79"
     },
     "server.R": {
       "checksum": "9cb0c78f30ab0b18be0401c751d42692"

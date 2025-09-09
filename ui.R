@@ -54,7 +54,7 @@ ui <- fluidPage(
                    column(10,
                           sliderInput("correlation", 
                                       "Baseline covariate prognostic strength:", 
-                                      min = 0, max = 1, value = 0.6, step = 0.1)
+                                      min = 0, max = 0.99, value = 0.6, step = 0.1)
                    ),
                    column(2,
                           actionButton("infoCorrelation", "", icon=icon("circle-info"), class = "btn-dark btn-xs")  # Info button
